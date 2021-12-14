@@ -22,7 +22,7 @@ sync
         data
         {
             local_path                          ../vcs/ios-native
-            remote_path                         ssh://username@git-server.local/ios-native.git
+            remote_path                         https://github.com/JuliaJedi/L10nCI.git
         }
     }
 }
