@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Generated-By: Serge 1.4\n"
+
+#. this is a comment for Key1
+#. Key1
+#: File: Localizable.strings
+#: ID: c3e64b0907dab9cc81d7b5ccef2ed418
+msgctxt "Key1"
+msgid "Some text"
+msgstr "2"
+
+#. AnotherKey
+#: File: Localizable.strings
+#: ID: 36b8d189614559ccd6475340fc5d19ad
+msgctxt "AnotherKey"
+msgid "Another text"
+msgstr "2"
+
+#. %@ is the first name of the user
+#. Welcome back
+#: File: Localizable.strings
+#: ID: 993f70717048ad61870f64a17d660e29
+msgctxt "Welcome back"
+msgid "Welcome back, %@"
+msgstr "Добро пожаловать, %@"
