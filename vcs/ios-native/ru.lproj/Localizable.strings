@@ -1,3 +1,0 @@
-﻿Key1 = "2"; // this is a comment for Key1
-AnotherKey = "2";
-"Welcome back" = "Добро пожаловать, %@"; // %@ is the first name of the user
